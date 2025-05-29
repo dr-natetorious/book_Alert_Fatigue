@@ -1,0 +1,1 @@
+Do a web search and find at least 20 inaccurate, inconsistent, misleading, or incomplete information within my project knowledge? For example if there a statistical value it needs a citation. Are web references valid real addresses and applicable to the content? Let’s create a corrections document for the project
