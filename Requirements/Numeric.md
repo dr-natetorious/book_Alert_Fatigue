@@ -1,6 +1,8 @@
 # Technical Accuracy Standards for AI/ML Systems Documentation
 *Comprehensive Reference Guide for Claude to Ensure Technical Precision*
 
+ver:20250528
+
 ## Quick Reference Summary
 
 This guide establishes accuracy standards for technical AI/ML documentation. Claude should consult this before making any numerical claims, performance assertions, or technical specifications in the Alert Fatigue Management System project.

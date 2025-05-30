@@ -1,6 +1,6 @@
 # Conversational Voice Mastery for Technical Writing
-
 *A systematic approach to creating engaging, varied prose across 300+ pages*
+ver:20250528
 
 ## 1. The Fundamental Problem
 

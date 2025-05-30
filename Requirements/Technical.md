@@ -1,4 +1,5 @@
 # Alert Fatigue Management System: Book Objectives and Reader Expectations
+ver:20250528
 
 ## What This Book Is NOT
 
